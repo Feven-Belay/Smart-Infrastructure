@@ -1,0 +1,228 @@
+/*.............head and footer... homepage........*/
+
+.card1{ width: 300px;
+    height: 400px;
+transition:2s;}
+.card1:hover{
+    width:320px;
+    height: 420px;
+    cursor: pointer;
+}
+
+.form-inline{}
+    .navbar-brand{font-size: 40px;
+        
+    }
+    
+    div#weather{ color: brown; font-family: serif; font-size: 10px}
+    img.rounded-circle{ width:400px;
+                border:1px solid lightgray;
+                padding:-100px;
+                margin:5px;
+                transition: width 1s;
+    div# carda{color: brown; font-family: serif; font-size: 10px }    
+}
+    
+    /*    ....contact us....    */
+    
+    
+/*    ............video...........*/
+    
+    
+    
+    footer{
+        background-color: #40474e;
+        color: white;
+        padding: 2rem 0 3rem;
+        margin-top: 1rem;
+        margin-bottom: -100px;
+        margin-left: -80px;
+        margin-right: -25px;
+        
+
+    }
+    footer img{
+        height: 3rem;
+        margin: 1.5 rem 0;
+    }
+    footer a{color: white;}
+    
+    
+    hr.socket{ border-top: .2rem solid #1ebba3;  color: lawngreen; width: 100%}
+/*.....Heading....*/
+    .jumptron{
+        margin-bottom: 0;
+        padding: 2rem 0 3.5rem;
+        border-radius: 0;
+       
+        margin-left: -10px;
+        margin-right: 0px;
+        
+                
+    
+    }    
+    h3.heading{ font-size: 1.9 rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin-bottom: 1.9 rem;
+        
+    }
+    .heading-underline{
+        width: 8rem;
+        height: .2rem;
+        background-color: #1ebba3;
+        margin-left:525px;
+        
+            
+    }
+    .heading{ text-align: center; font-size: 1.2 rem; color: black}
+    
+/*    .............vid.......*/
+     #vid{ background-color:#111;
+           padding: 100px 0px;
+    }
+
+ .background{background: url(about%202.jpg);height: 500px;
+    }
+....................login...........
+?*{
+	padding: 0;
+	margin: 0;
+}
+
+    
+
+.userlogin{
+	position: relative;
+	margin-top: 100px;
+	width: 450px;
+	height: auto;
+	background: black;
+	border-radius: 5px;
+}
+.label{
+	padding: 20px 130px;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+.login_form{
+	padding: 20px 40px;
+}
+.login_form .font{
+	font-size: 18px;
+	color: white;
+	margin: 5px 0;
+}
+.login_form input{
+	height: 40px;
+	width: 350px;
+	padding: 0 5px;
+	font-size: 18px;
+	outline: none;
+	border: 1px solid silver;
+    margin-left: 20px;
+}
+.login_form .font2{
+	margin-top: 30px;
+}
+.login_form button{
+	margin: 45px 0 30px 0;
+	height: 45px;
+	width: 365px;
+	font-size: 20px;
+	color: white;
+	outline: none;
+	cursor: pointer;
+	font-weight: bold;
+	background:  #1ebba3;
+	border-radius: 3px;
+	border: 1px solid  #1ebba3;
+	transition: .5s;
+    margin-left: 12px;
+}
+.login_form button:hover{
+	background: #1ebba3;
+}
+.login_form #email_feedback,
+.login_form #pass_feedback{
+	margin-top: 5px;
+	width: 345px;
+	font-size: 18px;
+	color: #C62828;
+	background: rgba(255,0,0,0.1);
+	text-align: center;
+	padding: 5px 8px;
+	border-radius: 3px;
+	border: 1px solid #EF9A9A;
+	display: none;
+}
+.pic1
+"pic1" src="loginpic.jpg" style="width: 100px"
+
+/*...................breadcrumb...........*/
+
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eee;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+.example button:hover {
+  background: red;
+}
+
+.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+     
+.formula{margin-left: 60px;
+    margin-right: 60px;
+    
+    
+}
+
